@@ -18,6 +18,7 @@
     --color-white: #ffffff;
     --color-gray: #3d3d3d;
     --color-dark: rgba(0, 0, 0, 0.5);
+    --color-light: rgba(255, 255, 255, 0.5);
     --color-bg: #fffdfe;
     --color-bg-gray: #afafaf;
 
@@ -510,7 +511,11 @@ footer .container{
     }
     /*nav*/
     nav{
-        background: transparent;
+        background: var(--color-light);
+    }
+
+    nav .nav-container .logo .lz{
+        color: var(--color-gray);
     }
     /*Header*/
     .header-container{
@@ -543,6 +548,10 @@ footer .container{
     .about-left{
         width: 66%;
         margin: auto;        
+    }
+
+    .about-shape{
+        display: none;
     }
 
     .about-right{

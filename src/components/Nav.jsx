@@ -8,7 +8,7 @@ function Nav() {
 
                 <a href="" className="logo">
                     <div className="point">&lt;/&gt;</div>
-                    Lz Dev
+                    <div className="lz">Lz Dev</div>
                 </a>
 
                 <ul className="navlinks">
