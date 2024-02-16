@@ -2,4 +2,4 @@
 ## Codificado em JS, React e Vite
 Portfolio em formato de landingpage codificado de forma responsiva tanto para desktop como para mobile.
 
-Link da página: 
+Link da página: https://lzdevportfolio.vercel.app/
