@@ -98,7 +98,7 @@ export const aboutData =[
     {
         id: 1,
         img: aboutImage, 
-        aboutInfo: 'Atuei como designer gráfico, aprimorando minhas habilidades na concepção de interfaces agradáveis e intuitivas. Recentemente, fiz uma transição em minha carreira para o desenvolvimento web Front-end, focado principalmente em e-commerce, web apps, web sites e landing pages. Possuo expertise em React, JavaScript ES6, HTML, CSS, SASS, WordPress e Bootstrap.' ,        
+        aboutInfo: 'Desenvolvedor front-end com experiência em projetos de e-commerce, websites, webapps e landing pages. Proficiente em tecnologias como JavaScript, HTML, CSS, React, Vue, Angular, Wordpress, Vtex.IO, entre outras.' ,        
         btnLink: CV,    
     },
 ];
